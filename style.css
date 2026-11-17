@@ -1,0 +1,401 @@
+.chris-home {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 100%;
+  min-width: 1280px;
+  min-height: 832px;
+  position: relative;
+}
+
+.chris-home .profile {
+  position: absolute;
+  top: 141px;
+  left: 58px;
+  width: 554px;
+  height: 300px;
+}
+
+.chris-home .div {
+  top: 0;
+  left: 0;
+  width: 550px;
+  height: 300px;
+  background-color: #ffffff;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.chris-home .PFP {
+  position: absolute;
+  top: 38px;
+  left: 15px;
+  width: 223px;
+  height: 223px;
+}
+
+.chris-home .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 264px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chris-home .text-wrapper-2 {
+  position: absolute;
+  top: 126px;
+  left: 258px;
+  width: 292px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chris-home .budget {
+  position: absolute;
+  top: 141px;
+  left: 671px;
+  width: 554px;
+  height: 300px;
+}
+
+.chris-home .button-b {
+  top: 37px;
+  left: 19px;
+  width: 511px;
+  height: 226px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  position: absolute;
+  border-radius: 10px;
+}
+
+.chris-home .text-wrapper-3 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 291px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chris-home .text-wrapper-4 {
+  position: absolute;
+  top: 103px;
+  left: 68px;
+  width: 414px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chris-home .balance {
+  position: absolute;
+  top: 493px;
+  left: 671px;
+  width: 554px;
+  height: 300px;
+}
+
+.chris-home .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 19px;
+  width: 377px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chris-home .text-wrapper-6 {
+  position: absolute;
+  top: 103px;
+  left: 29px;
+  width: 492px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chris-home .map {
+  position: absolute;
+  top: 493px;
+  left: 58px;
+  width: 554px;
+  height: 300px;
+}
+
+.chris-home .button-b-2 {
+  position: absolute;
+  top: 86px;
+  left: 59px;
+  width: 279px;
+  height: 128px;
+  border-radius: 10px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+.chris-home .p {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 347px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chris-home .text-wrapper-7 {
+  position: absolute;
+  top: 126px;
+  left: 102px;
+  width: 194px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chris-home .pinpoint {
+  position: absolute;
+  top: 24px;
+  left: 350px;
+  width: 180px;
+  height: 262px;
+}
+
+.chris-home .ellipse {
+  position: absolute;
+  top: 0;
+  left: 7px;
+  width: 166px;
+  height: 159px;
+  border-radius: 83px / 79.5px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+.chris-home .polygon {
+  position: absolute;
+  top: 161px;
+  left: -36px;
+  width: 156px;
+  height: 154px;
+}
+
+.chris-home .ellipse-2 {
+  position: absolute;
+  top: 36px;
+  left: 46px;
+  width: 87px;
+  height: 88px;
+  background-color: #ffffff;
+  border-radius: 43.5px / 44px;
+}
+
+.chris-home .rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 91px;
+  background-color: #ffffff;
+}
+
+.chris-home .img {
+  position: absolute;
+  top: 9px;
+  left: 1136px;
+  width: 73.98px;
+  height: 73.98px;
+}
+
+
+.chris-home .logo {
+  position: absolute;
+  width: 395px;
+  top: 15px;
+  left: 15px;
+  height: 62px;
+  display: flex;
+  flex-direction: row;
+}
+
+.chris-home .raider-buck {
+  margin-left: -3px;
+  width: 341px;
+  height: 52px;
+  margin-top: 2px;
+  -webkit-text-stroke: 3px #000000;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chris-home .image {
+  aspect-ratio: 1;
+  left:200px;
+  top: 5px
+}
+
+.chris-home .pfp-mini {
+  position: absolute;
+  left: 500px;
+  top: 5px;
+}
+
+.chris-home .span {
+  font-weight: 700;
+  color: #ff0000;
+}
+
+.chris-home .text-wrapper-8 {
+  font-family: "Inter-Regular", Helvetica;
+  color: #000000;
+}
+
+.chris-home .text-wrapper-9 {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.chris-home .text-wrapper-10 {
+  position: absolute;
+  top: 26px;
+  left: 671px;
+  width: 170px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ff0000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.chris-home .text-wrapper-11 {
+  position: absolute;
+  top: 26px;
+  left: 774px;
+  width: 170px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chris-home .text-wrapper-12 {
+  position: absolute;
+  top: 26px;
+  left: 909px;
+  width: 170px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chris-home .text-wrapper-13 {
+  position: absolute;
+  top: 26px;
+  left: 1036px;
+  width: 170px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+/* Existing style.css is injected above this accessibility and interaction layer. */
+
+.chris-home nav a {
+  display: block;
+}
+
+.chris-home button.text-wrapper-7 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Inter-Regular", Helvetica;
+  text-align: left;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  color: #ff0000;
+}
+
+.chris-home button.text-wrapper-7:focus-visible,
+.chris-home nav a:focus-visible {
+  outline: 3px solid #ff0000;
+  outline-offset: 3px;
+}
+
+.chris-home button.text-wrapper-7:hover {
+  filter: brightness(0.5);
+}
+
+.chris-home nav a:hover {
+  color: #ff0000;
+}
+
+.chris-home img {
+  display: block;
+}
+
+@media (max-width: 1280px) {
+  .chris-home {
+    overflow-x: auto;
+  }
+}
