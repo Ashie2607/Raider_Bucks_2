@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Balance | Raider Buck$</title>
+
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700&display=swap" rel="stylesheet">
+
+  <!-- One shared stylesheet for every page -->
+  <link rel="stylesheet" href="balance.css">
+</head>
+<body class="balance-page">
+
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <!-- ===== Header + navigation (keep identical on every page) ===== -->
+  <header class="site-header">
+    <a class="brand" href="home.html" aria-label="Raider Buck$ home">
+      <span class="brand-raider">Raider</span>
+      <span class="brand-bucks">Buck$</span>
+      <img class="brand-logo" src="images/IMG-5940-1.png" alt="">
+    </a>
+
+    <nav class="main-nav" aria-label="Main navigation">
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="balance.html" aria-current="page">Balance</a></li>
+        <li><a href="budget.html">Budget</a></li>
+        <li><a href="map.html">Map</a></li>
+      </ul>
+    </nav>
+
+    <a class="profile-link" href="settings.html" aria-label="Your profile and settings">
+      <img src="images/image-3.png" alt="">
+    </a>
+  </header>
+
+  <!-- ===== Page content ===== -->
+  <main id="main-content" class="balance-layout">
+
+    <section class="balance-summary" aria-labelledby="balance-heading">
+      <h1 class="visually-hidden">Balance</h1>
+
+      <h2 id="balance-heading" class="summary-label">Current Balance:</h2>
+      <p class="summary-value">$902.11</p>
+
+      <h2 class="summary-label">Dining Plan:</h2>
+      <p class="summary-value">Matador: $1,100</p>
+    </section>
+
+    <section class="transactions" aria-labelledby="transactions-heading">
+      <h2 id="transactions-heading">Previous Transactions:</h2>
+
+      <ul class="transaction-list">
+        <li>
+          <span class="merchant">Pizza Hut</span>
+          <span class="amount">-$9.02</span>
+          <time class="date" datetime="2026-09-25">Sep 25, 2026</time>
+        </li>
+        <li>
+          <span class="merchant">Chick-fil-A</span>
+          <span class="amount">-$11.12</span>
+          <time class="date" datetime="2026-09-25">Sep 25, 2026</time>
+        </li>
+        <li>
+          <span class="merchant">Sams</span>
+          <span class="amount">-$11.00</span>
+          <time class="date" datetime="2026-09-24">Sep 24, 2026</time>
+        </li>
+        <li>
+          <span class="merchant">Fazolis</span>
+          <span class="amount">-$9.42</span>
+          <time class="date" datetime="2026-09-23">Sep 23, 2026</time>
+        </li>
+      </ul>
+    </section>
+
+  </main>
+
+  <!-- ===== Footer (keep identical on every page) ===== -->
+  <footer class="site-footer">
+    <p>&copy; 2026 Raider Buck$</p>
+  </footer>
+
+</body>
+</html>
